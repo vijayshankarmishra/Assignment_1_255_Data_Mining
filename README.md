@@ -11,22 +11,22 @@ A comprehensive data science project analyzing the factors influencing short vid
 ## 📊 Visual Insights
 
 ### Distribution of Video Views
-![Distribution Views](reports/figures/Distribution_Views.png)
+![Distribution Views](Reports/figures/Distribution_Views.png)
 
 ### Distribution of log1p(Views)
-![Distribution of Views](reports/figures/Distribution_Log1p(Views).png)
+![Distribution of Views](Reports/figures/Distribution_Log1p(Views).png)
 
 ### Likes 
-![Likes vs Views](reports/figures/Distribution_Likes.png)
+![Likes vs Views](Reports/figures/Distribution_Likes.png)
 
 ### Comments
-![Shares vs Views](reports/figures/Distribution_comments.png)
+![Shares vs Views](Reports/figures/Distribution_comments.png)
 
 ### Shares
-![Comments vs Views](reports/figures/Distribution_Shares.png)
+![Comments vs Views](Reports/figures/Distribution_Shares.png)
 
 ### CreatorFollowers
-![Feature Importance](reports/figures/Distribution_CreatorFollowers.png)
+![Feature Importance](Reports/figures/Distribution_CreatorFollowers.png)
 
 ---
 
